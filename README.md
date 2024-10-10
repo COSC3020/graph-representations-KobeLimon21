@@ -19,3 +19,12 @@ most important part. Add your answer to this markdown file.
 
 Implement a function to convert an adjacency list to an adjacency matrix and
 analyze it as above.
+
+
+
+
+Sources: 
+
+https://www.geeksforgeeks.org/adjacency-matrix/ - explained more on matrixes
+
+https://www.geeksforgeeks.org/adjacency-matrix/https://www.geeksforgeeks.org/adjacency-matrix/

@@ -20,11 +20,13 @@ most important part. Add your answer to this markdown file.
 Implement a function to convert an adjacency list to an adjacency matrix and
 analyze it as above.
 
-Runtime complexity of the conversion here is 
+Runtime complexity of the conversion here is O(n^2). We have two nested for loops where the first for loop runs through all the rows and the second runs through all the columns. This gives us n*n  or n^2. The runtime is only impacted by the number of vertices, as the number of of edges will not matter as it will still check the number of vertices regardless. 
 
 
 Sources: 
 
 https://www.geeksforgeeks.org/adjacency-matrix/ - explained more on matrixes
+
+"I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice."
 
 
